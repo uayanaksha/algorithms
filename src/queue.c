@@ -1,6 +1,4 @@
-#include <stdlib.h>
-#include <stdbool.h>
-
+#include "header.h"
 #ifndef QUEUE_H
 #define QUEUE_H
 typedef struct Queue {

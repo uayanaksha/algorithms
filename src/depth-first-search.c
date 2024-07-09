@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "header.h"
 #include "stack.c"
 
 void dfs(unsigned vCount, unsigned graph[][vCount], unsigned startIdx){

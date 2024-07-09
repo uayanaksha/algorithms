@@ -1,6 +1,4 @@
-#include <stdlib.h>
-#include <stdbool.h>
-
+#include "./header.h"
 #ifndef STACK_H
 #define STACK_H
 typedef struct Stack{
